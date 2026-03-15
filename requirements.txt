@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+gunicorn
+pydantic
+moviepy>=2.0.0.dev2
+edge-tts
+Pillow
+ollama
+g4f
+nest_asyncio
+boto3
+huggingface_hub
+python-multipart
+requests
+aiohttp
